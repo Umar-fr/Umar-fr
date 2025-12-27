@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Umar-fr/Umar-fr/refs/heads/main/coding%20gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umar-fr&label=Profile%20views&color=0e75b6&style=flat" alt="Umar-fr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umar-fr&label=Profile%20views&color=7F3FBF&style=flat-square" alt="Umar-fr" /> </p>
 
 - 👨‍💻 AI/ML Engineer skilled in building scalable, cloud-native systems and production-grade AI applications
 
@@ -14,11 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/your-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umar-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/Umar-fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 <a href="mailto:mohammadumarfarooq0007@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
-<a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,4 +53,4 @@
 <a href="https://github.com/Umar-fr"><img alt="Umar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-fr&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&area=true&hide_border=true" /></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Umar-fr/Umar-fr/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Umar-fr/Umar-fr/output/snake.svg)
