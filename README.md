@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/Umar-fr/Umar-fr/refs/heads/main/github-header-banner.png)
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Umar-fr/Umar-fr/main/coding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Umar-fr/Umar-fr/refs/heads/main/coding%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umar-fr&label=Profile%20views&color=0e75b6&style=flat" alt="Umar-fr" /> </p>
 
