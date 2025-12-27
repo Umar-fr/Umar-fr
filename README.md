@@ -54,26 +54,6 @@
 
 ---
 
-## 🎧 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-umar-fr.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Umar-fr&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -90,7 +70,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <a href="https://github.com/Umar-fr"><img alt="Umar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-fr&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&area=true&hide_border=true" /></a>
@@ -98,7 +78,7 @@
 
 ---
 
-## 🎯 3D Contribution Calendar
+## 3D Contribution Calendar
 
 <div align="center">
 
@@ -113,18 +93,6 @@
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Umar-fr/Umar-fr/output/snake.svg)
-
-</div>
-
----
-
-## 🌆 GitHub Skyline
-
-<div align="center">
-
-Want to see my GitHub activity as a 3D city? Check out my [GitHub Skyline](https://skyline.github.com/Umar-fr/2024)!
-
-[![GitHub Skyline](https://img.shields.io/badge/View%20My-GitHub%20Skyline-ff69b4?style=for-the-badge&logo=github)](https://skyline.github.com/Umar-fr/2024)
 
 </div>
 
