@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/your-user-id/your-banner-image.png)
+![banner](https://raw.githubusercontent.com/Umar-fr/Umar-fr/refs/heads/main/github-header-banner.png)
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Umar-fr/Umar-fr/main/coding.gif">
 
