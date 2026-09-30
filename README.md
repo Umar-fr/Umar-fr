@@ -74,14 +74,6 @@
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-<a href="https://github.com/Umar-fr"><img alt="Umar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-fr&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&area=true&hide_border=true" /></a>
-</p>
-
----
-
 ## 3D Contribution Calendar
 
 <div align="center">
